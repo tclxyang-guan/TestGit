@@ -3,7 +3,7 @@ package TestGit
 import "fmt"
 
 func main() {
-	fmt.Println("----------------------")
+	fmt.Println("我是test1")
 	a := 1 + 2
 	fmt.Println(a)
 	d := 10 * a
